@@ -2,7 +2,7 @@
   "name": "promise-sleep",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/promise-sleep",
+  "main": "./dist/promise-sleep.ㅓㄴ",
   "scripts": {
     "build": "tsc"
   },
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/junho2343/temping.git"
+    "url": "https://github.com/pic123123/sleep"
   },
   "license": "ISC",
   "dependencies": {
