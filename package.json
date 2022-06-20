@@ -2,7 +2,7 @@
   "name": "promise-sleep",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/promise-sleep.ㅓㄴ",
+  "main": "./dist/promise-sleep.js",
   "scripts": {
     "build": "tsc"
   },
