@@ -1,0 +1,28 @@
+{
+  "name": "promise-sleep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/promise-sleep",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "sleep",
+    "promise-sleep"
+  ],
+  "author": {
+    "name": "Incheol park",
+    "email": "pic123123@nate.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junho2343/temping.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
