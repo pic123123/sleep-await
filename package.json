@@ -24,8 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pic123123/sleep"
+    "url": "https://github.com/pic123123/sleep-await"
   },
+  "homepage": "https://github.com/pic123123/sleep-await",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.0"
