@@ -1,4 +1,4 @@
-# PromiseSleep
+# sleep-await
 
 It is used when you want to execute the next logic after a specific millisecond using sleep.
 

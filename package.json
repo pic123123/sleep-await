@@ -1,6 +1,6 @@
 {
   "name": "sleep-await",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It waits for the number of milliseconds of the argument you put into the function before executing it. This function must use async await. Execution is paused through the awiat keyword, and execution resumes when the promise is processed.",
   "main": "./dist/index.js",
   "scripts": {
