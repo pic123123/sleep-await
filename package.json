@@ -1,8 +1,8 @@
 {
   "name": "promise-sleep",
   "version": "1.0.0",
-  "description": "",
-  "main": "./dist/promise-sleep.js",
+  "description": "It waits for the number of milliseconds of the argument you put into the function before executing it. This function must use async await. Execution is paused through the awiat keyword, and execution resumes when the promise is processed.",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc"
   },
