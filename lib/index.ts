@@ -1,4 +1,4 @@
-export function promiseSleep(milliSecond: number): Promise<unknown> {
+export function sleepAwait(milliSecond: number): Promise<unknown> {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve(true);

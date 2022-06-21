@@ -9,7 +9,7 @@ Temporary files & directorires easy CREATE and DELETE in Node.js
 ### Npm
 
 ```
-$ npm install promise-sleep
+$ npm install sleep-await
 ```
 
 ## :runner: Quick Start
@@ -17,13 +17,13 @@ $ npm install promise-sleep
 ### Example
 
 ```typescript
-import { promiseSleep } from "promise-sleep";
+import { sleepAwait } from "sleep-await";
 
 TESTA();
 async function TESTA() {
   console.log("11");
 
-  await promiseSleep(3000);
+  await sleepAwait(3000);
 
   console.log("22");
 

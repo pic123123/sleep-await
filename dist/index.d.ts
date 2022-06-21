@@ -1,1 +1,1 @@
-export declare function promiseSleep(milliSecond: number): Promise<unknown>;
+export declare function sleepAwait(milliSecond: number): Promise<unknown>;
